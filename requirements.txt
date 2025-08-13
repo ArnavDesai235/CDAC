@@ -3,6 +3,6 @@ pandas
 numpy
 torch
 sentence-transformers
-faiss-cpu
+faiss-gpu
 nltk
 transformers
