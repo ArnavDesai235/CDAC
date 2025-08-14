@@ -1,0 +1,15 @@
+# Core dependencies
+pandas
+numpy
+torch
+transformers
+sentence-transformers
+faiss-cpu   # use faiss-gpu if you have CUDA
+nltk
+moviepy
+pydub
+librosa
+streamlit
+
+# Optional but useful
+pathlib

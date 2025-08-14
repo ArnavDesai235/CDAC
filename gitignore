@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+venv/
+.env/
+
+# Data
+data/videos/
+data/wav/
+*.wav
+*.mp4
+*.avi
+*.mov
+*.faiss
+*_metadata.json
+*_embeddings.npy
+*_model.txt
+
+# OS/IDE
+.DS_Store
+.idea/
+*.iml
